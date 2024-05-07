@@ -1,5 +1,5 @@
 # MGT4250 Spring 2024 Course Project
-Authors: CJ Ramalho, cramalho@elon.edu, Mason Esworthy, jesworthy6@elon.edu
+Authors: CJ Ramalho, cramalho@elon.edu, Mason Esworthy, jesworthy@elon.edu
 
 ## Project Description
 Visualization App Link: https://public.tableau.com/views/MGT4250CJRamalhoMasonEsworthy/A-Figure2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
